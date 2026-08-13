@@ -3,7 +3,7 @@
 🚀 **Information Systems Student | Aspiring Backend Java Developer**  
 🇧🇷 Brazil
 
-Currently studying **Information Systems** at UFOP and focusing on backend development with **Java**. 
+Currently studying **Information Systems** at **UFOP** and focusing on backend development with **Java**. 
 
 I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learning Java, SQL and REST APIs.
 
