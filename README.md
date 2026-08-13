@@ -24,7 +24,7 @@ I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learnin
 
 ## 🧠 What I do
 
-- 💻 Backend Development — Currently learning Java and SQL
+- 💻 Backend Development — Currently learning Java, SQL and REST APIs
 
 - 🌐 Web Development — Basic knowledge of HTML, CSS, and JavaScript
 
