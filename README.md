@@ -5,7 +5,7 @@
 
 Currently studying **Information Systems** at **UFOP** and focusing on backend development with **Java**. 
 
-I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learning Java, SQL and REST APIs.
+I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learning Java and SQL.
 
 ---
 
@@ -26,7 +26,7 @@ I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learnin
 
 - 📚 Information Systems — Student at UFOP
   
-- 💻 Backend Development — Currently learning Java, SQL and REST APIs
+- 💻 Backend Development — Currently learning Java and SQL
 
 - 🌐 Web Development — Basic knowledge of HTML, CSS, and JavaScript
 
