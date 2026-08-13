@@ -24,11 +24,11 @@ I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learnin
 
 ## 🧠 What I do
 
+- 📚 Information Systems — Student at UFOP
+  
 - 💻 Backend Development — Currently learning Java, SQL and REST APIs
 
 - 🌐 Web Development — Basic knowledge of HTML, CSS, and JavaScript
-
-- 📚 Information Systems — Student at UFOP
 
 - 🔨 Projects — Building projects to practice and improve my programming skills
 
@@ -37,8 +37,6 @@ I have basic knowledge of HTML, CSS, and JavaScript, and I’m currently learnin
 ## 🛠️ Tech Stack
 
 ### Frontend
-
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
